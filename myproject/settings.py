@@ -44,7 +44,6 @@ INSTALLED_APPS = [
     "demo",
     "django_otp",
     "django_otp.plugins.otp_totp",
-    # "django_otp.plugins.opt_totp",
 ]
 
 MIDDLEWARE = [
